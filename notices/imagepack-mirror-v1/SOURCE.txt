@@ -1,0 +1,13 @@
+原作者：Frostberg and imagepack contributors
+原始来源：https://gitgud.io/Frostberg/degrees-of-lewdity-plus
+原始发布：https://github.com/XFoxLG/DOL-X/releases/tag/imagepack-mirror-v1
+核验日期：2026-11-13
+原件SHA-256：05a8d89a4ca6cc5a29cfb32b931524f15411ae5420a268a0a2e70758768839d0
+
+分发条件：
+保留 Vrelnir、Frostberg、UCB / mysterious 与图片贡献者署名及来源
+非商业使用
+改编贡献按 CC BY-NC-SA 4.0 共享并说明修改
+原子目录包未带许可证，另提供完整许可及归属说明
+
+本归档由XFoxLG独立维护，原附件保持字节不变。
