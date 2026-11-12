@@ -1,0 +1,726 @@
+[
+  {
+    "tag": "cheat-extended-mirror-v1.20-dev260923",
+    "asset": "cheat_extended.mod.zip",
+    "bytes": 598600,
+    "sha256": "2c2f5604db3818f1184fd31714bef4529eabacfa19c340b5e63b0fabdc8e42e6",
+    "declared_name": "cheat extended",
+    "declared_version": "1.20(dev260923)",
+    "authors": [
+      "隨風飄逸 / chris81605"
+    ],
+    "source_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/cheat-extended-mirror-v1.20-dev260923/cheat_extended.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/cheat-extended-mirror-v1.20-dev260923/cheat_extended.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/cheat-extended-mirror-v1.20-dev260923",
+    "published_at": "2026-10-19T15:17:44Z",
+    "license_note": "Included original license files; no new rights granted",
+    "license_members": [
+      "LICENSE.txt"
+    ],
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "original_release_notes": "Byte-identical mirror of the Cheat Extended 1.20(dev260923) mod asset that upstream published under the generic filename cheat_extended.mod.zip on the now-removed Pre-release tag of chris81605/Degrees-of-Lewdity_Cheat_Extended.\n\nOriginal URL (now HTTP 404, observed 2026-10-19): https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended/releases/download/Pre-release/cheat_extended.mod.zip\n\nSHA-256: 2c2f5604db3818f1184fd31714bef4529eabacfa19c340b5e63b0fabdc8e42e6\nSize: 598600 bytes\n\nSource of the mirrored bytes: a preserved local archive, checked against the previously recorded pinned checksum.\n\nConsumers verify this asset by SHA-256; the mirror exists so pinned builds stay reproducible after upstream asset removal."
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v4.3.2",
+    "asset": "maplebirch-0.5.12.11-v4.3.2.mod.zip",
+    "bytes": 176506,
+    "sha256": "8665496f30e36a33d838e85737526967bdd89473e0ba13fbc0c1b75a9d105f62",
+    "declared_name": "maplebirch",
+    "declared_version": "4.3.2",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.3.2/maplebirch-0.5.12.11-v4.3.2.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.3.2/maplebirch-0.5.12.11-v4.3.2.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.3.2",
+    "published_at": "2026-10-15T05:14:10Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v4.3.2 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v4.3.2 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，官方当年也没有真正发布过它的下载包，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 4.3.2 |\n| 适用游戏版本 | DoL 0.5.12.11 及以上 |\n| 官方发布日期 | 无（官方当时未成功发布） |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n\n## 关于这个版本\n\n这个版本当年在官方仓库的自动构建环节失败了，所以官方从来没有真正发布过它的下载包。\n这里提供的是按同一套源码与流程重建的版本，供需要对应游戏版本的玩家使用；它不是当年的\n官方产物，如果有官方渠道的其它版本，请以官方为准。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v4.3.0",
+    "asset": "maplebirch-0.5.12.11-v4.3.0.mod.zip",
+    "bytes": 174343,
+    "sha256": "26dab71167df0b342fb04ebebe00dcc35f1c362c3d8d891227e4b4ce9acad53a",
+    "declared_name": "maplebirch",
+    "declared_version": "4.3.0",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.3.0/maplebirch-0.5.12.11-v4.3.0.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.3.0/maplebirch-0.5.12.11-v4.3.0.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.3.0",
+    "published_at": "2026-10-15T05:14:06Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v4.3.0 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v4.3.0 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，官方当年也没有真正发布过它的下载包，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 4.3.0 |\n| 适用游戏版本 | DoL 0.5.12.11 及以上 |\n| 官方发布日期 | 无（官方当时未成功发布） |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n\n## 关于这个版本\n\n这个版本当年在官方仓库的自动构建环节失败了，所以官方从来没有真正发布过它的下载包。\n这里提供的是按同一套源码与流程重建的版本，供需要对应游戏版本的玩家使用；它不是当年的\n官方产物，如果有官方渠道的其它版本，请以官方为准。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v4.1.9",
+    "asset": "maplebirch-0.5.10.12-v4.1.9.mod.zip",
+    "bytes": 185703,
+    "sha256": "3a56d67baaca0c54693668b99bbaeba7c9cf9a522ee54550be71443e117f64c3",
+    "declared_name": "maplebirch",
+    "declared_version": "4.1.9",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.9/maplebirch-0.5.10.12-v4.1.9.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.9/maplebirch-0.5.10.12-v4.1.9.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.9",
+    "published_at": "2026-10-15T05:12:21Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v4.1.9 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v4.1.9 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，官方原件也已失效，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 4.1.9 |\n| 适用游戏版本 | DoL 0.5.10.12 及以上 |\n| 官方发布日期 | 2026-06-23 |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v4.1.8",
+    "asset": "maplebirch-0.5.10.12-v4.1.8.mod.zip",
+    "bytes": 186416,
+    "sha256": "39d2a303f7acdf2c901dfb29eccb6704b767cc378e14bd3c12d8d40cef0b9dd3",
+    "declared_name": "maplebirch",
+    "declared_version": "4.1.8",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.8/maplebirch-0.5.10.12-v4.1.8.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.8/maplebirch-0.5.10.12-v4.1.8.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.8",
+    "published_at": "2026-10-15T05:13:37Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v4.1.8 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v4.1.8 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，官方原件也已失效，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 4.1.8 |\n| 适用游戏版本 | DoL 0.5.10.12 及以上 |\n| 官方发布日期 | 2026-06-18 |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v4.1.7",
+    "asset": "maplebirch-0.5.10.11-v4.1.7.mod.zip",
+    "bytes": 185389,
+    "sha256": "583e98f5a49e16ed2ab90b0219a4464b6c23941110884aedd4731acb2e79e157",
+    "declared_name": "maplebirch",
+    "declared_version": "4.1.7",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.7/maplebirch-0.5.10.11-v4.1.7.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.7/maplebirch-0.5.10.11-v4.1.7.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.7",
+    "published_at": "2026-10-15T05:13:32Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v4.1.7 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v4.1.7 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，官方原件也已失效，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 4.1.7 |\n| 适用游戏版本 | DoL 0.5.10.11 及以上 |\n| 官方发布日期 | 2026-06-14 |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v4.1.6",
+    "asset": "maplebirch-0.5.10.11-v4.1.6.mod.zip",
+    "bytes": 185391,
+    "sha256": "19988a2d128f13c34caef703630828e043ce62dbff9e9c6764e9f84c95be56c1",
+    "declared_name": "maplebirch",
+    "declared_version": "4.1.6",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.6/maplebirch-0.5.10.11-v4.1.6.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.6/maplebirch-0.5.10.11-v4.1.6.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.6",
+    "published_at": "2026-10-15T05:13:29Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v4.1.6 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v4.1.6 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，官方原件也已失效，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 4.1.6 |\n| 适用游戏版本 | DoL 0.5.10.11 及以上 |\n| 官方发布日期 | 2026-06-13 |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v4.1.12",
+    "asset": "maplebirch-0.5.10.12-v4.1.12.mod.zip",
+    "bytes": 185831,
+    "sha256": "f7f33b73fb2e5c2dc9ab7b089cfa9fc0211397edf1dd87fee3691cd5bf1b0b05",
+    "declared_name": "maplebirch",
+    "declared_version": "4.1.12",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.12/maplebirch-0.5.10.12-v4.1.12.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.12/maplebirch-0.5.10.12-v4.1.12.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.12",
+    "published_at": "2026-10-15T05:14:02Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v4.1.12 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v4.1.12 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，官方原件也已失效，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 4.1.12 |\n| 适用游戏版本 | DoL 0.5.10.12 及以上 |\n| 官方发布日期 | 2026-07-01 |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v4.1.10",
+    "asset": "maplebirch-0.5.10.12-v4.1.10.mod.zip",
+    "bytes": 185699,
+    "sha256": "579b1afb6148da698a098d5a26ed3cf6f80c98d67363909a487b737f686b2965",
+    "declared_name": "maplebirch",
+    "declared_version": "4.1.10",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.10/maplebirch-0.5.10.12-v4.1.10.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.10/maplebirch-0.5.10.12-v4.1.10.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.10",
+    "published_at": "2026-10-15T05:13:59Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v4.1.10 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v4.1.10 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，官方原件也已失效，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 4.1.10 |\n| 适用游戏版本 | DoL 0.5.10.12 及以上 |\n| 官方发布日期 | 2026-06-24 |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v4.1.0",
+    "asset": "maplebirch-0.5.10.8-v4.1.0.mod.zip",
+    "bytes": 179347,
+    "sha256": "0b700f85ae4f8bf741ac5b610069c630bfdc27d39e5685498c7444b2034c03b3",
+    "declared_name": "maplebirch",
+    "declared_version": "4.1.0",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.0/maplebirch-0.5.10.8-v4.1.0.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.0/maplebirch-0.5.10.8-v4.1.0.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.0",
+    "published_at": "2026-10-15T05:13:25Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v4.1.0 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v4.1.0 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，官方原件也已失效，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 4.1.0 |\n| 适用游戏版本 | DoL 0.5.10.8 及以上 |\n| 官方发布日期 | 2026-06-10 |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v3.1.9",
+    "asset": "maplebirch-0.5.8.9-v3.1.9.mod.zip",
+    "bytes": 151381,
+    "sha256": "013eff21b553aae25acc0b6662e0afd4befb047aa2defd98c070a415e0492862",
+    "declared_name": "maplebirch",
+    "declared_version": "3.1.9",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v3.1.9/maplebirch-0.5.8.9-v3.1.9.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v3.1.9/maplebirch-0.5.8.9-v3.1.9.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v3.1.9",
+    "published_at": "2026-10-15T05:13:03Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v3.1.9 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v3.1.9 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，当年的自动构建记录也已查不到，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 3.1.9 |\n| 适用游戏版本 | DoL 0.5.8.9 及以上 |\n| 官方发布日期 | 无（官方当时未成功发布） |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n\n## 关于这个版本\n\n这个版本属于框架 3.x 系列，年代较早。GitHub 上查不到它当年的自动构建记录，因此这里\n提供的重建包是**已知的第一份公开可用的该版本**；如果你手上还留着当年的原件，欢迎用它\n对比（技术档案里记录了核对方法）。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v3.1.8",
+    "asset": "maplebirch-0.5.8.9-v3.1.8.mod.zip",
+    "bytes": 148487,
+    "sha256": "593e87a48c86098bc9b670555b35ce44040d3a5a8b965f245be991f992c0cf88",
+    "declared_name": "maplebirch",
+    "declared_version": "3.1.8",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v3.1.8/maplebirch-0.5.8.9-v3.1.8.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v3.1.8/maplebirch-0.5.8.9-v3.1.8.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v3.1.8",
+    "published_at": "2026-10-15T05:12:59Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v3.1.8 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v3.1.8 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，当年的自动构建记录也已查不到，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 3.1.8 |\n| 适用游戏版本 | DoL 0.5.8.9 及以上 |\n| 官方发布日期 | 无（官方当时未成功发布） |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n\n## 关于这个版本\n\n这个版本属于框架 3.x 系列，年代较早。GitHub 上查不到它当年的自动构建记录，因此这里\n提供的重建包是**已知的第一份公开可用的该版本**；如果你手上还留着当年的原件，欢迎用它\n对比（技术档案里记录了核对方法）。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v3.1.13",
+    "asset": "maplebirch-0.5.8.10-v3.1.13.mod.zip",
+    "bytes": 165706,
+    "sha256": "1061048d46bc0f02eca8532c487a5ee23041c718377788ab3d664ac326207b57",
+    "declared_name": "maplebirch",
+    "declared_version": "3.1.13",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v3.1.13/maplebirch-0.5.8.10-v3.1.13.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v3.1.13/maplebirch-0.5.8.10-v3.1.13.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v3.1.13",
+    "published_at": "2026-10-15T05:13:21Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v3.1.13 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v3.1.13 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，当年的自动构建记录也已查不到，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 3.1.13 |\n| 适用游戏版本 | DoL 0.5.8.10 及以上 |\n| 官方发布日期 | 无（官方当时未成功发布） |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n\n## 关于这个版本\n\n这个版本属于框架 3.x 系列，年代较早。GitHub 上查不到它当年的自动构建记录，因此这里\n提供的重建包是**已知的第一份公开可用的该版本**；如果你手上还留着当年的原件，欢迎用它\n对比（技术档案里记录了核对方法）。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v3.1.11",
+    "asset": "maplebirch-0.5.8.10-v3.1.11.mod.zip",
+    "bytes": 164303,
+    "sha256": "06d8a849ee259e58826b7f22e3c2a5904715128af6f4183e73c49985d9bd9dfa",
+    "declared_name": "maplebirch",
+    "declared_version": "3.1.11",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v3.1.11/maplebirch-0.5.8.10-v3.1.11.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v3.1.11/maplebirch-0.5.8.10-v3.1.11.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v3.1.11",
+    "published_at": "2026-10-15T05:13:17Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v3.1.11 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v3.1.11 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，当年的自动构建记录也已查不到，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 3.1.11 |\n| 适用游戏版本 | DoL 0.5.8.10 及以上 |\n| 官方发布日期 | 无（官方当时未成功发布） |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n\n## 关于这个版本\n\n这个版本属于框架 3.x 系列，年代较早。GitHub 上查不到它当年的自动构建记录，因此这里\n提供的重建包是**已知的第一份公开可用的该版本**；如果你手上还留着当年的原件，欢迎用它\n对比（技术档案里记录了核对方法）。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v3.1.10",
+    "asset": "maplebirch-0.5.8.10-v3.1.10.mod.zip",
+    "bytes": 164270,
+    "sha256": "c6effdb240641d0f933ede79ee8c4f744cb7e72e4e61f094c165419f812dd890",
+    "declared_name": "maplebirch",
+    "declared_version": "3.1.10",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v3.1.10/maplebirch-0.5.8.10-v3.1.10.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v3.1.10/maplebirch-0.5.8.10-v3.1.10.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v3.1.10",
+    "published_at": "2026-10-15T05:13:13Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "original_release_notes": "# 秋枫白桦框架 v3.1.10 备份副本（源码重建）\n\n这是「秋枫白桦框架」（maplebirch）v3.1.10 的存档副本。框架作者已经从官方发布页删掉了\n这个版本，当年的自动构建记录也已查不到，这里保存的是**用作者公开的源码和官方自动构建流程重建**的版本：\n功能与官方当年发布的版本一致，但它不是当年那份文件的逐字节拷贝。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。旧整合包和依赖旧框架的 mod 很\n容易因此「找不到对应版本」而装不上，所以这里按版本留档，方便需要旧框架的玩家取用。\n\n## 怎么用\n\n- 下载后按你平时装 mod 的方式，把它加进 mod 加载列表即可。\n- 装之前先看下面「适用游戏版本」一栏；游戏版本低于下限时框架不会加载。\n- 如果你在玩 DOL-X 整合包：**通常不需要它**，整合包已经内置了经过完整验证的框架版本，\n  不要用这个旧版本去替换。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 3.1.10 |\n| 适用游戏版本 | DoL 0.5.8.10 及以上 |\n| 官方发布日期 | 无（官方当时未成功发布） |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 校验值、重建配方（含「与官方原件逐字节一致」的四个对照版本）与核对过程见\n> [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n\n## 关于这个版本\n\n这个版本属于框架 3.x 系列，年代较早。GitHub 上查不到它当年的自动构建记录，因此这里\n提供的重建包是**已知的第一份公开可用的该版本**；如果你手上还留着当年的原件，欢迎用它\n对比（技术档案里记录了核对方法）。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v4.1.13",
+    "asset": "maplebirch-0.5.10.12-v4.1.13.mod.zip",
+    "bytes": 186010,
+    "sha256": "f5161eed8a4828baac8d7667ad4311fa214f02855c32c190ac1087902e9be955",
+    "declared_name": "maplebirch",
+    "declared_version": "4.1.13",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.13/maplebirch-0.5.10.12-v4.1.13.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.13/maplebirch-0.5.10.12-v4.1.13.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.13",
+    "published_at": "2026-10-14T20:53:40Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "original_release_notes": "# 秋枫白桦框架 v4.1.13 备份副本\n\n这是 DOL-X 在 `-0802` / `-0804` 两次发布里使用的「秋枫白桦框架」（maplebirch）v4.1.13\n官方文件的原样备份。**未做任何修改**，与官方发布时的文件逐字节相同。\n\n## 这是什么、为什么会有它\n\n框架作者已经把这个版本从官方发布页删除（2026-10-15 复查确认），而它是 DOL-X 的\n`-0802` / `-0804` 两次发布实际使用的版本。为了让这两个旧包的组件在「官方文件消失」之后\n仍然能被原样复现，这里保存了一份当时的原件。\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件；这份备份是防止「官方文件消失\n或被替换」的保险。\n\n## 怎么用、和整合包怎么搭配\n\n- 如果你要玩 DOL-X 整合包：**不需要下载这个文件**。当前整合包内置的是更新的框架版本，\n  和这个文件不是同一个版本。\n- 如果你要复现 `-0802` / `-0804` 旧版整合包，或按早期流程自行构建：在官方源已经拿不到\n  这一版时，用这里的压缩包替代即可；它是普通 mod 压缩包，放进 mod 加载列表就能用。\n- 它和当前整合包内置的框架**不是**同一个文件，不要用它替换新整合包里的框架。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 4.1.13 |\n| 上游仓库 | [MaplebirchLeaf/SCML-DOL-maplebirchFramework](https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework) |\n| 上游发布时间 | 2026-07-01 |\n| 适用游戏版本 | DoL 0.5.10.12 |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 逐字节校验值、版本考古与来源链路见 [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "yanling-cheat-mirror-v1.0.1",
+    "asset": "yanling-cheat-collection-0.5.10.12-v1.0.1.mod.zip",
+    "bytes": 16302,
+    "sha256": "50e2341ecd6594d354653baa2c797631047de8fb0f443b7d9174728b448e0886",
+    "declared_name": "yanling-cheat-collection",
+    "declared_version": "1.0.1",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/YanlingCheatCollection",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/yanling-cheat-mirror-v1.0.1/yanling-cheat-collection-0.5.10.12-v1.0.1.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/yanling-cheat-mirror-v1.0.1/yanling-cheat-collection-0.5.10.12-v1.0.1.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/yanling-cheat-mirror-v1.0.1",
+    "published_at": "2026-10-04T04:55:15Z",
+    "license_note": "Included original license files; no new rights granted",
+    "license_members": [],
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "original_release_notes": "# 言灵作弊集（Yanling Cheat Collection）v1.0.1 备份副本\n\n这是「言灵作弊集」独立版本 v1.0.1 的备份副本，也是 DOL-X 整合包内置的那一版。\n原作者已经删除了这个功能的独立发布仓库（网页和接口都访问不到了），之后把它并入了\n自己的另一套整合里。这份备份保留了独立版本在 4.x 框架上可用的最后一版。\n\n## 怎么用、和整合包怎么搭配\n\n- 如果你要玩 DOL-X 整合包：**不需要下载这个文件**，整合包里已经内置了同一份。\n- 如果你要自己按 DOL-X 的流程重新构建：原仓库已删除，直接用这里的压缩包，用法与普通 mod 相同。\n- 它需要配合秋枫白桦框架 4.1 及以上版本使用。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| Mod | 言灵作弊集（Yanling Cheat Collection） |\n| 版本 | v1.0.1 |\n| 原仓库 | MaplebirchLeaf/YanlingCheatCollection（已删除） |\n| 兼容框架 | 秋枫白桦框架 4.1.x |\n| 已内置 | 是 |\n\n> 校验值与删除时间线见 [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "maplebirch-framework-mirror-v4.1.14",
+    "asset": "maplebirch-0.5.10.12-v4.1.14.mod.zip",
+    "bytes": 186903,
+    "sha256": "e44c9aeda62e8cf9cf76a85907c55b8b651541bccb8c6da0ee1b4eda965923a4",
+    "declared_name": "maplebirch",
+    "declared_version": "4.1.14",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.14/maplebirch-0.5.10.12-v4.1.14.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.14/maplebirch-0.5.10.12-v4.1.14.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.14",
+    "published_at": "2026-10-04T04:55:19Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "original_release_notes": "# 秋枫白桦框架 v4.1.14 备份副本\n\n这是 DOL-X 构建时使用的「秋枫白桦框架」（maplebirch）v4.1.14 官方文件的原样备份副本。\n**未做任何修改**，与官方发布时的文件逐字节相同。\n\n## 这是什么、为什么会有它\n\n框架作者会删除旧版本，也会在同一个下载位置悄悄替换文件。为了让 DOL-X 的包在「官方文件\n消失或被替换」之后仍然能被原样复现，这里保存了一份当时的原件。\n\n## 怎么用、和整合包怎么搭配\n\n- 如果你要玩 DOL-X 整合包：**不需要下载这个文件**，最新整合包里已经内置了同一个文件。\n- 如果你要自己按 DOL-X 的流程重新构建：在官方源拿不到这一版时，用这里的压缩包替代即可；\n  它是普通 mod 压缩包，放进 mod 加载列表就能用。\n- 它和整合包内置的框架是同一个文件，重复加载没有意义。\n\n## 为什么钉在 4.1.14\n\n框架更新到 4.2 之后，AU Face 脸部扩展需要的旧接口被删掉或重写，AU 版换脸会直接报错；\n5.x 又重构掉了其它 mod 依赖的部分。4.1.14 是目前经过完整核对与实机验证、这些功能都\n正常工作的最后一个版本。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| 框架版本 | 4.1.14 |\n| 上游仓库 | [MaplebirchLeaf/SCML-DOL-maplebirchFramework](https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework) |\n| 上游发布时间 | 2026-08-02 |\n| 适用游戏版本 | DoL 0.5.10.12 及以上（含 0.5.11.9） |\n| 授权 | MIT（Copyright (c) 2026 楓樺葉） |\n\n> 逐字节校验值、版本考古与陷阱样本见 [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "longer-combat-mirror-v1.0.1",
+    "asset": "longer-combat-0.5.10.12-v1.0.1.mod.zip",
+    "bytes": 13764,
+    "sha256": "be1421c876f9111371f80548f9061b59135362e5c936f32e4cee0aecd1e2a0d9",
+    "declared_name": "longer-combat",
+    "declared_version": "1.0.1",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/LongerCombat",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/longer-combat-mirror-v1.0.1/longer-combat-0.5.10.12-v1.0.1.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/longer-combat-mirror-v1.0.1/longer-combat-0.5.10.12-v1.0.1.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/longer-combat-mirror-v1.0.1",
+    "published_at": "2026-10-04T04:55:22Z",
+    "license_note": "Included original license files; no new rights granted",
+    "license_members": [],
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "original_release_notes": "# 更长遭遇战（LongerCombat）v1.0.1 备份副本\n\n这是「更长遭遇战」独立版本 v1.0.1 的备份副本，也是 DOL-X 整合包内置的那一版。\n原作者已经删除了这个功能的独立发布仓库（网页和接口都访问不到了），之后把它并入了\n自己的另一套整合里。这份备份保留了独立版本在 4.x 框架上可用的最后一版。\n\n## 怎么用、和整合包怎么搭配\n\n- 如果你要玩 DOL-X 整合包：**不需要下载这个文件**，整合包里已经内置了同一份。\n- 如果你要自己按 DOL-X 的流程重新构建：原仓库已删除，直接用这里的压缩包，用法与普通 mod 相同。\n- 它需要配合秋枫白桦框架 4.1 及以上版本使用。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| Mod | 更长遭遇战（LongerCombat） |\n| 版本 | v1.0.1 |\n| 原仓库 | MaplebirchLeaf/LongerCombat（已删除） |\n| 兼容框架 | 秋枫白桦框架 4.1.x |\n| 已内置 | 是 |\n\n> 校验值与删除时间线见 [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "cheat-extended-mirror-v1.20",
+    "asset": "cheat_extended.mod.zip",
+    "bytes": 606561,
+    "sha256": "9d318e813c24038586b9a50dd30e59f5fd608e886e93b6eceeccbb08eed2ce71",
+    "declared_name": "cheat extended",
+    "declared_version": "1.20",
+    "authors": [
+      "隨風飄逸 / chris81605"
+    ],
+    "source_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/cheat-extended-mirror-v1.20/cheat_extended.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/cheat-extended-mirror-v1.20/cheat_extended.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/cheat-extended-mirror-v1.20",
+    "published_at": "2026-10-04T04:55:28Z",
+    "license_note": "Included original license files; no new rights granted",
+    "license_members": [
+      "LICENSE.txt"
+    ],
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "original_release_notes": "# Cheat Extended v1.20 备份副本\n\n这是 DOL-X 整合包内置的「作弊拓展」（Cheat Extended）v1.20 的原样备份副本。\n\n## 这是什么、为什么会有它\n\n作者的上游发布通道是「可变通道」：同一个下载位置被原样替换过多次，同一个链接在不同时间\n下载到的文件可能不是同一份。这个备份固定住 DOL-X 使用的那一份（2026-10-02 的版本，\n新增发色自定义功能），保证整合包不会因为你什么时候构建而拿到不同的文件。\n\n## 怎么用、和整合包怎么搭配\n\n- 如果你要玩 DOL-X 整合包：**不需要下载这个文件**，整合包里已经内置了同一份。\n- 如果你要自己按 DOL-X 的流程重新构建：上游又发生替换或删除时，用这里的压缩包替代即可，\n  用法与普通 mod 相同（放进 mod 加载列表）。\n- 单独把它放进别的整合包，等于给那个整合包装上作弊功能，请按需自行判断。\n\n## 版本与来源\n\n| 项 | 值 |\n|---|---|\n| Mod | Cheat Extended（作弊拓展） |\n| 版本 | v1.20（2026-10-02 的版本） |\n| 上游仓库 | [chris81605/Degrees-of-Lewdity_Cheat_Extended](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended) |\n| 已内置 | DOL-X 各版本的整合包均已包含 |\n\n> 校验值与替换历史见 [技术档案](https://github.com/XFoxLG/DOL-X/blob/vega/docs/technical/mirrors-2026-08.md)。\n"
+  },
+  {
+    "tag": "maplebirch-v3.2.5-rebuild",
+    "asset": "maplebirch-0.5.9.7-v3.2.5.mod.zip",
+    "bytes": 134636,
+    "sha256": "8d2cce196b3a02e9ea52d4877e8213f7b40a5a83d20c4a99de409cf7f15ef787",
+    "declared_name": "maplebirch",
+    "declared_version": "3.2.5",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-v3.2.5-rebuild/maplebirch-0.5.9.7-v3.2.5.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-v3.2.5-rebuild/maplebirch-0.5.9.7-v3.2.5.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-v3.2.5-rebuild",
+    "published_at": "2026-10-04T04:55:32Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction from an archived upstream tag; not an original release attachment",
+    "original_release_notes": "Rebuilt from commit 33129fe7 (author deleted the original tag). 3.x line final version, targets game 0.5.9.7+. Satisfies cheat_extended v1.19 (>=3.2.5) and expansion v1.2.4 (^3.1.0). For DOL-X next-4 experiment only.\n"
+  },
+  {
+    "tag": "maplebirch-v3.2.5-rebuild",
+    "asset": "maplebirch-0.5.9.7-v3.2.5.modpack",
+    "bytes": 463624,
+    "sha256": "4115b78bb5f20a2499add2f05bffb32600dcd7e304ec31a249803d2e48d8c660",
+    "declared_name": null,
+    "declared_version": null,
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-v3.2.5-rebuild/maplebirch-0.5.9.7-v3.2.5.modpack",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-v3.2.5-rebuild/maplebirch-0.5.9.7-v3.2.5.modpack",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-v3.2.5-rebuild",
+    "published_at": "2026-10-04T04:55:32Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "previously documented source reconstruction from an archived upstream tag; not an original release attachment",
+    "original_release_notes": "Rebuilt from commit 33129fe7 (author deleted the original tag). 3.x line final version, targets game 0.5.9.7+. Satisfies cheat_extended v1.19 (>=3.2.5) and expansion v1.2.4 (^3.1.0). For DOL-X next-4 experiment only.\n"
+  },
+  {
+    "tag": "maplebirch-expansion-mirror-v1.2.4",
+    "asset": "maplebirchEx-v1.2.4.mod.zip",
+    "bytes": 66958,
+    "sha256": "f0fd49a0d9b1ff239d058e0f5d4e69feb873dabf055f1f27421ae1903902ef89",
+    "declared_name": "maplebirchEx",
+    "declared_version": "1.2.4",
+    "authors": [
+      "MaplebirchLeaf"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-expansion-mirror-v1.2.4/maplebirchEx-v1.2.4.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-expansion-mirror-v1.2.4/maplebirchEx-v1.2.4.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-expansion-mirror-v1.2.4",
+    "published_at": "2026-10-04T04:55:36Z",
+    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_members": [],
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "original_release_notes": "Mirror of maplebirchEx v1.2.4. Upstream repo MaplebirchLeaf/SCML-DOL-maplebirchExpansion was deleted/privated; this preserves the last 3.x-compatible build (declares maplebirch ^3.1.0). SHA-verified local archive. For DOL-X build use only.\n"
+  },
+  {
+    "tag": "legacy-art-compat-plus-v1.1",
+    "asset": "Legacy-Art-Mods-Compat.zip",
+    "bytes": 46032,
+    "sha256": "df1debd4425467c60553a15e090a870b6924c2102614ccab4ff716776d17a727",
+    "declared_name": "旧版图片名称适配",
+    "declared_version": "1.0.3-plusV1.1",
+    "authors": [
+      "鎖鏈蝴蝶 / mirrormirroronwall",
+      "隨風飄逸 / chris81605"
+    ],
+    "source_url": "https://github.com/chris81605/Legacy-Art-Mods-Compat",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/legacy-art-compat-plus-v1.1/Legacy-Art-Mods-Compat.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/legacy-art-compat-plus-v1.1/Legacy-Art-Mods-Compat.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/legacy-art-compat-plus-v1.1",
+    "published_at": "2026-10-04T04:55:40Z",
+    "license_note": "Original README allows modification and redistribution; retain original and Plus attribution",
+    "license_members": [],
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "original_release_notes": "Community plus of mirrormirroronwall/Legacy-Art-Mods-Compat (upstream README explicitly allows modification and redistribution).\n\nDifference vs upstream 1.0.3: adds six AU Face image-name fallback/override rules (blush{n} / tear(s){n}), grayscale-first ordering, clothing path compatibility, and clothing-shop widget adjustment.\n\nCredits:\n- Original: mirrormirroronwall (https://github.com/mirrormirroronwall/Legacy-Art-Mods-Compat)\n- Plus author: 鎖鏈蝴蝶 @ 百度貼吧 (acknowledged in bundled readme.md)\n\nUsed by DOL-X as the resident legacy-art compatibility layer for the 4.x main line. Hook mechanism is additive (window.modImgLoaderHooker.addSideHooker), no patch to lyra/ core.\n\nTested against:\n- DoL 0.5.10.12\n- maplebirch 4.1.13\n- AU Face 1.0.4 (outer) / 1.1.0 (boot.json) / 1.2.8 (inner decrypted)\n\nSHA-256: df1debd4425467c60553a15e090a870b6924c2102614ccab4ff716776d17a727\nSize: 46032 bytes\n"
+  },
+  {
+    "tag": "cheat-extended-mirror-v1.18",
+    "asset": "cheat_extended_v118.mod.zip",
+    "bytes": 157071,
+    "sha256": "54bb23dbda3959de555e4a2cfd70656d203ca1ab0472157fd29097d935a489b3",
+    "declared_name": "cheat extended",
+    "declared_version": "1.18(Dev260325)",
+    "authors": [
+      "隨風飄逸 / chris81605"
+    ],
+    "source_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/cheat-extended-mirror-v1.18/cheat_extended_v118.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/cheat-extended-mirror-v1.18/cheat_extended_v118.mod.zip",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/cheat-extended-mirror-v1.18",
+    "published_at": "2026-10-04T04:55:50Z",
+    "license_note": "Included original license files; no new rights granted",
+    "license_members": [
+      "LICENSE.txt"
+    ],
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "original_release_notes": "Mirror of cheat extended v1.18 (Dev20260325) from upstream repo.\n\nOriginal tag: V1.18(Dev20260325)\nOriginal commit: 6e92c7e90b0a726c5a1c785de52c59b1fb04baea\nSource: https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended\n\nThis mirror was created because the upstream GitHub Release was deleted after v1.19 was published.\n\n## Compatibility\n- Works with maplebirch v3.1.14\n- No maplebirch version requirement in dependencies\n- ModLoader >= 2.17.0 required\n"
+  },
+  {
+    "tag": "imagepack-mirror-v1",
+    "asset": "degrees-of-lewdity-plus-master-imagepacks-mysterious.tar.gz",
+    "bytes": 9899607,
+    "sha256": "05a8d89a4ca6cc5a29cfb32b931524f15411ae5420a268a0a2e70758768839d0",
+    "declared_name": null,
+    "declared_version": null,
+    "authors": [
+      "Frostberg and imagepack contributors"
+    ],
+    "source_url": "https://gitgud.io/Frostberg/degrees-of-lewdity-plus",
+    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/imagepack-mirror-v1/degrees-of-lewdity-plus-master-imagepacks-mysterious.tar.gz",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/imagepack-mirror-v1/degrees-of-lewdity-plus-master-imagepacks-mysterious.tar.gz",
+    "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/imagepack-mirror-v1",
+    "published_at": "2026-10-04T04:55:57Z",
+    "license_note": "Original archive and attribution retained; image-specific distribution requirements apply",
+    "license_members": [],
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "original_release_notes": "Mirror for DoL+ imagepacks.\n\nRequired for automated builds. Do not delete.\n"
+  },
+  {
+    "key": "maplebirch",
+    "tag": "maplebirch-release-v5.6.2",
+    "asset": "maplebirch-0.5.12.13-v5.6.2.mod.zip",
+    "bytes": 388498,
+    "sha256": "d926f6188c4abb950d1f5f4657a1b142613dc5613a47004876f8f26793b99f76",
+    "declared_name": "maplebirch",
+    "declared_version": "5.6.2",
+    "authors": [
+      "MaplebirchLeaf / 楓樺葉"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
+    "old_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework/releases/download/maplebirch-release-v5.6.2/maplebirch-0.5.12.13-v5.6.2.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-release-v5.6.2/maplebirch-0.5.12.13-v5.6.2.mod.zip",
+    "source_release_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework/releases/tag/maplebirch-release-v5.6.2",
+    "published_at": null,
+    "license_members": [
+      "LICENSE",
+      "LICENSE-CC-BY-NC-SA-4.0"
+    ],
+    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "original_release_notes": ""
+  },
+  {
+    "key": "au_f",
+    "tag": "au-model-f-v0.9.3",
+    "asset": "AUfemale.model_v0.9.3.zip",
+    "bytes": 54519851,
+    "sha256": "6c20236bc300d794ef2e77027d0d816d3ef4f2460282a5cac43aacbecc4206a0",
+    "declared_name": "【AUfemale】model",
+    "declared_version": "0.9.3",
+    "authors": [
+      "AOKIUTAGE and AU image contributors"
+    ],
+    "source_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0",
+    "old_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/download/mod/AUfemale.model_v0.9.3.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/au-model-f-v0.9.3/AUfemale.model_v0.9.3.zip",
+    "source_release_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/tag/mod",
+    "published_at": null,
+    "license_members": [],
+    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "original_release_notes": ""
+  },
+  {
+    "key": "au_m",
+    "tag": "au-model-m-v0.4.2",
+    "asset": "AUmale.model_v0.4.2.zip",
+    "bytes": 46875870,
+    "sha256": "c46389de100c2b6c681846aa28e054fd09053e3b55d03988b25c7fe93259efae",
+    "declared_name": "【AUmale】model",
+    "declared_version": "0.4.2",
+    "authors": [
+      "AOKIUTAGE and AU image contributors"
+    ],
+    "source_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0",
+    "old_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/download/mod/AUmale.model_v0.4.2.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/au-model-m-v0.4.2/AUmale.model_v0.4.2.zip",
+    "source_release_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/tag/mod",
+    "published_at": null,
+    "license_members": [],
+    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "original_release_notes": ""
+  },
+  {
+    "key": "au_a",
+    "tag": "au-model-a-v0.1.1",
+    "asset": "AUandrogynous.model_v0.1.1.zip",
+    "bytes": 52734714,
+    "sha256": "e93c82e20fbb8e809d2bc05365209ebb4aafc47fefd50038fcc982454a335cd9",
+    "declared_name": "【AUandrogynous】model",
+    "declared_version": "0.1.1",
+    "authors": [
+      "AOKIUTAGE and AU image contributors"
+    ],
+    "source_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0",
+    "old_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/download/mod/AUandrogynous.model_v0.1.1.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/au-model-a-v0.1.1/AUandrogynous.model_v0.1.1.zip",
+    "source_release_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/tag/mod",
+    "published_at": null,
+    "license_members": [],
+    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "original_release_notes": ""
+  },
+  {
+    "key": "au_face",
+    "tag": "au-face-v1.2.16",
+    "asset": "AUsDoL-facial-expansion-v1.2.16.zip",
+    "bytes": 36096,
+    "sha256": "82425f8c36cd510133f962f21270a031bf6f054517cdfbec4ace9cec4e4c31f5",
+    "declared_name": "AU面部扩展",
+    "declared_version": "1.2.16",
+    "authors": [
+      "snake",
+      "aokiutage / AOKIUTAGE"
+    ],
+    "source_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0",
+    "old_url": "https://discord.com/channels/1103864219620884560/1368992933243654164/1566065930646069270",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/au-face-v1.2.16/AUsDoL-facial-expansion-v1.2.16.zip",
+    "source_release_url": "https://discord.com/channels/1103864219620884560/1368992933243654164/1566065930646069270",
+    "published_at": null,
+    "license_members": [],
+    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "original_archive_note": "原包保留四个损坏空目录记录和十个实际文件。仅构建副本清理空目录。README 顶部仍标 1.2.15，boot 与更新日志确认 1.2.16。",
+    "original_release_notes": ""
+  },
+  {
+    "key": "cheat_extended",
+    "tag": "cheat-extended-v1.20.3.1",
+    "asset": "cheat_extended.mod.zip",
+    "bytes": 608718,
+    "sha256": "16da93387fc026ef6a5fe402e032bd4fd3794cae6487f959b9b85b701d02ac1e",
+    "declared_name": "cheat extended",
+    "declared_version": "1.20.3.1",
+    "authors": [
+      "隨風飄逸 / chris81605"
+    ],
+    "source_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended",
+    "old_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended/releases/download/1.20.3/cheat_extended.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/cheat-extended-v1.20.3.1/cheat_extended.mod.zip",
+    "source_release_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended/releases/tag/1.20.3",
+    "published_at": null,
+    "license_members": [
+      "LICENSE.txt"
+    ],
+    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "original_release_notes": ""
+  },
+  {
+    "key": "doli",
+    "tag": "doli-v0.2.3",
+    "asset": "DOLI.mod.zip",
+    "bytes": 1137387,
+    "sha256": "82785c3d6d8a5f311763190e8429b77dfd1f1130c1dcfd95d2ab77187e356890",
+    "declared_name": "DOLI",
+    "declared_version": "0.2.2",
+    "authors": [
+      "ArsNativa and DOLI contributors"
+    ],
+    "source_url": "https://github.com/ArsNativa/Degrees-of-Lewdity-Intelligence",
+    "old_url": "https://github.com/ArsNativa/Degrees-of-Lewdity-Intelligence/releases/download/v0.2.3/DOLI.mod.zip",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/doli-v0.2.3/DOLI.mod.zip",
+    "source_release_url": "https://github.com/ArsNativa/Degrees-of-Lewdity-Intelligence/releases/tag/v0.2.3",
+    "published_at": null,
+    "license_members": [],
+    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "original_archive_note": "官方发布 tag 是 v0.2.3，原件 boot 标识仍为 0.2.2，未改写版本。",
+    "original_release_notes": ""
+  },
+  {
+    "key": "deadwood",
+    "tag": "deadwood-v2.5.8",
+    "asset": "deadwood-reblooms-0.5.12.13-v2.5.8.modpack",
+    "bytes": 3966280,
+    "sha256": "6fcbb46a4267001927f96f7b6241099b4ceb96a8c7006aa86568d22bba1ba246",
+    "declared_name": "deadwood-reblooms",
+    "declared_version": "2.5.8",
+    "authors": [
+      "MaplebirchLeaf / 楓樺葉"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/Deadwood-Reblooms",
+    "old_url": "https://github.com/MaplebirchLeaf/Deadwood-Reblooms/releases/download/v2.5.8/deadwood-reblooms-0.5.12.13-v2.5.8.modpack",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/deadwood-v2.5.8/deadwood-reblooms-0.5.12.13-v2.5.8.modpack",
+    "source_release_url": "https://github.com/MaplebirchLeaf/Deadwood-Reblooms/releases/tag/v2.5.8",
+    "published_at": null,
+    "license_members": [],
+    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "original_release_notes": ""
+  },
+  {
+    "key": "revelation",
+    "tag": "revelation-v1.4.6",
+    "asset": "revelation-the-book-of-return-v1.4.6.modpack",
+    "bytes": 750920,
+    "sha256": "4f4c3c9408b2f3a117fdf3f0dffaa746e74ff309b1f64a243d92258dfe1ebefe",
+    "declared_name": "revelation-the-book-of-return",
+    "declared_version": "1.4.6",
+    "authors": [
+      "MaplebirchLeaf / 楓樺葉"
+    ],
+    "source_url": "https://github.com/MaplebirchLeaf/Revelation-The-Book-of-Return",
+    "old_url": "https://github.com/MaplebirchLeaf/Revelation-The-Book-of-Return/releases/download/v1.4.6/revelation-the-book-of-return-v1.4.6.modpack",
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/revelation-v1.4.6/revelation-the-book-of-return-v1.4.6.modpack",
+    "source_release_url": "https://github.com/MaplebirchLeaf/Revelation-The-Book-of-Return/releases/tag/v1.4.6",
+    "published_at": null,
+    "license_members": [],
+    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "original_release_notes": ""
+  }
+]
