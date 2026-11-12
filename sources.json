@@ -10,15 +10,38 @@
       "隨風飄逸 / chris81605"
     ],
     "source_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/cheat-extended-mirror-v1.20-dev260923/cheat_extended.mod.zip",
     "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/cheat-extended-mirror-v1.20-dev260923/cheat_extended.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/cheat-extended-mirror-v1.20-dev260923",
     "published_at": "2026-10-19T15:17:44Z",
-    "license_note": "Included original license files; no new rights granted",
+    "license_note": "各版本原包 LICENSE.txt 明确允许非商业复制、分享和改编。",
     "license_members": [
       "LICENSE.txt"
     ],
-    "provenance": "existing DOL-X public archive copied byte-for-byte"
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "redistribution": {
+      "status": "allowed_with_conditions",
+      "public": true,
+      "reason": "各版本原包 LICENSE.txt 明确允许非商业复制、分享和改编。",
+      "checked_at": "2026-11-13",
+      "evidence": [
+        {
+          "kind": "archive_member",
+          "path": "LICENSE.txt",
+          "quote": "reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only"
+        },
+        {
+          "kind": "upstream",
+          "url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended/blob/main/LICENSE.txt"
+        }
+      ],
+      "conditions": [
+        "保留原作者、贡献者、版权、原包 README 和许可证",
+        "非商业使用",
+        "说明修改并按 CC BY-NC-SA 4.0 共享改编贡献",
+        "Spectrum 按 MIT，OpenCC 字典按 Apache-2.0，原作者与第三方许可另附"
+      ],
+      "license": "CC-BY-NC-SA-4.0"
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v4.3.2",
@@ -31,13 +54,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.3.2/maplebirch-0.5.12.11-v4.3.2.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.3.2/maplebirch-0.5.12.11-v4.3.2.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.3.2",
     "published_at": "2026-10-15T05:14:10Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v4.3.0",
@@ -50,13 +79,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.3.0/maplebirch-0.5.12.11-v4.3.0.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.3.0/maplebirch-0.5.12.11-v4.3.0.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.3.0",
     "published_at": "2026-10-15T05:14:06Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v4.1.9",
@@ -69,13 +104,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.9/maplebirch-0.5.10.12-v4.1.9.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.9/maplebirch-0.5.10.12-v4.1.9.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.9",
     "published_at": "2026-10-15T05:12:21Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v4.1.8",
@@ -88,13 +129,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.8/maplebirch-0.5.10.12-v4.1.8.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.8/maplebirch-0.5.10.12-v4.1.8.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.8",
     "published_at": "2026-10-15T05:13:37Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v4.1.7",
@@ -107,13 +154,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.7/maplebirch-0.5.10.11-v4.1.7.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.7/maplebirch-0.5.10.11-v4.1.7.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.7",
     "published_at": "2026-10-15T05:13:32Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v4.1.6",
@@ -126,13 +179,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.6/maplebirch-0.5.10.11-v4.1.6.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.6/maplebirch-0.5.10.11-v4.1.6.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.6",
     "published_at": "2026-10-15T05:13:29Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v4.1.12",
@@ -145,13 +204,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.12/maplebirch-0.5.10.12-v4.1.12.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.12/maplebirch-0.5.10.12-v4.1.12.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.12",
     "published_at": "2026-10-15T05:14:02Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v4.1.10",
@@ -164,13 +229,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.10/maplebirch-0.5.10.12-v4.1.10.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.10/maplebirch-0.5.10.12-v4.1.10.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.10",
     "published_at": "2026-10-15T05:13:59Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v4.1.0",
@@ -183,13 +254,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.0/maplebirch-0.5.10.8-v4.1.0.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.0/maplebirch-0.5.10.8-v4.1.0.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.0",
     "published_at": "2026-10-15T05:13:25Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v3.1.9",
@@ -202,13 +279,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v3.1.9/maplebirch-0.5.8.9-v3.1.9.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v3.1.9/maplebirch-0.5.8.9-v3.1.9.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v3.1.9",
     "published_at": "2026-10-15T05:13:03Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v3.1.8",
@@ -221,13 +304,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v3.1.8/maplebirch-0.5.8.9-v3.1.8.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v3.1.8/maplebirch-0.5.8.9-v3.1.8.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v3.1.8",
     "published_at": "2026-10-15T05:12:59Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v3.1.13",
@@ -240,13 +329,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v3.1.13/maplebirch-0.5.8.10-v3.1.13.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v3.1.13/maplebirch-0.5.8.10-v3.1.13.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v3.1.13",
     "published_at": "2026-10-15T05:13:21Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v3.1.11",
@@ -259,13 +354,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v3.1.11/maplebirch-0.5.8.10-v3.1.11.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v3.1.11/maplebirch-0.5.8.10-v3.1.11.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v3.1.11",
     "published_at": "2026-10-15T05:13:17Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v3.1.10",
@@ -278,13 +379,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v3.1.10/maplebirch-0.5.8.10-v3.1.10.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v3.1.10/maplebirch-0.5.8.10-v3.1.10.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v3.1.10",
     "published_at": "2026-10-15T05:13:13Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical"
+    "provenance": "previously documented source reconstruction; missing original cannot be asserted byte-identical",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v4.1.13",
@@ -297,13 +404,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.13/maplebirch-0.5.10.12-v4.1.13.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.13/maplebirch-0.5.10.12-v4.1.13.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.13",
     "published_at": "2026-10-14T20:53:40Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "existing DOL-X public archive copied byte-for-byte"
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "yanling-cheat-mirror-v1.0.1",
@@ -316,13 +429,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/YanlingCheatCollection",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/yanling-cheat-mirror-v1.0.1/yanling-cheat-collection-0.5.10.12-v1.0.1.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/yanling-cheat-mirror-v1.0.1/yanling-cheat-collection-0.5.10.12-v1.0.1.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/yanling-cheat-mirror-v1.0.1",
     "published_at": "2026-10-04T04:55:15Z",
-    "license_note": "Included original license files; no new rights granted",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "existing DOL-X public archive copied byte-for-byte"
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-framework-mirror-v4.1.14",
@@ -335,13 +454,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-framework-mirror-v4.1.14/maplebirch-0.5.10.12-v4.1.14.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-framework-mirror-v4.1.14/maplebirch-0.5.10.12-v4.1.14.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-framework-mirror-v4.1.14",
     "published_at": "2026-10-04T04:55:19Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "existing DOL-X public archive copied byte-for-byte"
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "longer-combat-mirror-v1.0.1",
@@ -354,13 +479,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/LongerCombat",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/longer-combat-mirror-v1.0.1/longer-combat-0.5.10.12-v1.0.1.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/longer-combat-mirror-v1.0.1/longer-combat-0.5.10.12-v1.0.1.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/longer-combat-mirror-v1.0.1",
     "published_at": "2026-10-04T04:55:22Z",
-    "license_note": "Included original license files; no new rights granted",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "existing DOL-X public archive copied byte-for-byte"
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "cheat-extended-mirror-v1.20",
@@ -373,15 +504,38 @@
       "隨風飄逸 / chris81605"
     ],
     "source_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/cheat-extended-mirror-v1.20/cheat_extended.mod.zip",
     "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/cheat-extended-mirror-v1.20/cheat_extended.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/cheat-extended-mirror-v1.20",
     "published_at": "2026-10-04T04:55:28Z",
-    "license_note": "Included original license files; no new rights granted",
+    "license_note": "各版本原包 LICENSE.txt 明确允许非商业复制、分享和改编。",
     "license_members": [
       "LICENSE.txt"
     ],
-    "provenance": "existing DOL-X public archive copied byte-for-byte"
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "redistribution": {
+      "status": "allowed_with_conditions",
+      "public": true,
+      "reason": "各版本原包 LICENSE.txt 明确允许非商业复制、分享和改编。",
+      "checked_at": "2026-11-13",
+      "evidence": [
+        {
+          "kind": "archive_member",
+          "path": "LICENSE.txt",
+          "quote": "reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only"
+        },
+        {
+          "kind": "upstream",
+          "url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended/blob/main/LICENSE.txt"
+        }
+      ],
+      "conditions": [
+        "保留原作者、贡献者、版权、原包 README 和许可证",
+        "非商业使用",
+        "说明修改并按 CC BY-NC-SA 4.0 共享改编贡献",
+        "Spectrum 按 MIT，OpenCC 字典按 Apache-2.0，原作者与第三方许可另附"
+      ],
+      "license": "CC-BY-NC-SA-4.0"
+    }
   },
   {
     "tag": "maplebirch-v3.2.5-rebuild",
@@ -394,13 +548,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-v3.2.5-rebuild/maplebirch-0.5.9.7-v3.2.5.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-v3.2.5-rebuild/maplebirch-0.5.9.7-v3.2.5.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-v3.2.5-rebuild",
     "published_at": "2026-10-04T04:55:32Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction from an archived upstream tag; not an original release attachment"
+    "provenance": "previously documented source reconstruction from an archived upstream tag; not an original release attachment",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-v3.2.5-rebuild",
@@ -413,13 +573,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-v3.2.5-rebuild/maplebirch-0.5.9.7-v3.2.5.modpack",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-v3.2.5-rebuild/maplebirch-0.5.9.7-v3.2.5.modpack",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-v3.2.5-rebuild",
     "published_at": "2026-10-04T04:55:32Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "previously documented source reconstruction from an archived upstream tag; not an original release attachment"
+    "provenance": "previously documented source reconstruction from an archived upstream tag; not an original release attachment",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "maplebirch-expansion-mirror-v1.2.4",
@@ -432,13 +598,19 @@
       "MaplebirchLeaf"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/maplebirch-expansion-mirror-v1.2.4/maplebirchEx-v1.2.4.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-expansion-mirror-v1.2.4/maplebirchEx-v1.2.4.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/maplebirch-expansion-mirror-v1.2.4",
     "published_at": "2026-10-04T04:55:36Z",
-    "license_note": "源码归属 MaplebirchLeaf；保留原 MIT 署名及版本来源，归档不改变原授权。重建附件与官方原件的区别见 provenance。",
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
     "license_members": [],
-    "provenance": "existing DOL-X public archive copied byte-for-byte"
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "tag": "legacy-art-compat-plus-v1.1",
@@ -452,13 +624,36 @@
       "隨風飄逸 / chris81605"
     ],
     "source_url": "https://github.com/chris81605/Legacy-Art-Mods-Compat",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/legacy-art-compat-plus-v1.1/Legacy-Art-Mods-Compat.zip",
     "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/legacy-art-compat-plus-v1.1/Legacy-Art-Mods-Compat.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/legacy-art-compat-plus-v1.1",
     "published_at": "2026-10-04T04:55:40Z",
-    "license_note": "Original README allows modification and redistribution; retain original and Plus attribution",
+    "license_note": "原作者和 Plus V1.1 代码对应历史提交都明示可二改二传；不套用到后来 Plus V3。",
     "license_members": [],
-    "provenance": "existing DOL-X public archive copied byte-for-byte"
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "redistribution": {
+      "status": "allowed_with_conditions",
+      "public": true,
+      "reason": "原作者和 Plus V1.1 代码对应历史提交都明示可二改二传；不套用到后来 Plus V3。",
+      "checked_at": "2026-11-13",
+      "evidence": [
+        {
+          "kind": "upstream",
+          "url": "https://github.com/mirrormirroronwall/Legacy-Art-Mods-Compat/blob/main/README.md#L20",
+          "quote": "可二改二传"
+        },
+        {
+          "kind": "upstream",
+          "url": "https://github.com/chris81605/Legacy-Art-Mods-Compat/blob/93b55b28935fca60c34b93905d03b3e929535a04/README.md#L20",
+          "quote": "可二改二传"
+        }
+      ],
+      "conditions": [
+        "保留鎖鏈蝴蝶 / mirrormirroronwall 原作者与隨風飄逸 / chris81605 Plus 维护者署名",
+        "保留原包 readme，附对应历史作者许可",
+        "boot.json 与 dolrename.js 和授权版本源文件完全相同"
+      ],
+      "license": "author-permission"
+    }
   },
   {
     "tag": "cheat-extended-mirror-v1.18",
@@ -471,15 +666,38 @@
       "隨風飄逸 / chris81605"
     ],
     "source_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/cheat-extended-mirror-v1.18/cheat_extended_v118.mod.zip",
     "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/cheat-extended-mirror-v1.18/cheat_extended_v118.mod.zip",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/cheat-extended-mirror-v1.18",
     "published_at": "2026-10-04T04:55:50Z",
-    "license_note": "Included original license files; no new rights granted",
+    "license_note": "各版本原包 LICENSE.txt 明确允许非商业复制、分享和改编。",
     "license_members": [
       "LICENSE.txt"
     ],
-    "provenance": "existing DOL-X public archive copied byte-for-byte"
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "redistribution": {
+      "status": "allowed_with_conditions",
+      "public": true,
+      "reason": "各版本原包 LICENSE.txt 明确允许非商业复制、分享和改编。",
+      "checked_at": "2026-11-13",
+      "evidence": [
+        {
+          "kind": "archive_member",
+          "path": "LICENSE.txt",
+          "quote": "reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only"
+        },
+        {
+          "kind": "upstream",
+          "url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended/blob/main/LICENSE.txt"
+        }
+      ],
+      "conditions": [
+        "保留原作者、贡献者、版权、原包 README 和许可证",
+        "非商业使用",
+        "说明修改并按 CC BY-NC-SA 4.0 共享改编贡献",
+        "Spectrum 按 MIT，OpenCC 字典按 Apache-2.0，原作者与第三方许可另附"
+      ],
+      "license": "CC-BY-NC-SA-4.0"
+    }
   },
   {
     "tag": "imagepack-mirror-v1",
@@ -492,13 +710,36 @@
       "Frostberg and imagepack contributors"
     ],
     "source_url": "https://gitgud.io/Frostberg/degrees-of-lewdity-plus",
-    "old_url": "https://github.com/XFoxLG/DOL-X/releases/download/imagepack-mirror-v1/degrees-of-lewdity-plus-master-imagepacks-mysterious.tar.gz",
     "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/imagepack-mirror-v1/degrees-of-lewdity-plus-master-imagepacks-mysterious.tar.gz",
     "source_release_url": "https://github.com/XFoxLG/DOL-X/releases/tag/imagepack-mirror-v1",
     "published_at": "2026-10-04T04:55:57Z",
-    "license_note": "Original archive and attribution retained; image-specific distribution requirements apply",
+    "license_note": "Frostberg DoL+ 图片源仓库 LICENSE 允许非商业分享；此附件是其中 mysterious 子目录。",
     "license_members": [],
-    "provenance": "existing DOL-X public archive copied byte-for-byte"
+    "provenance": "existing DOL-X public archive copied byte-for-byte",
+    "redistribution": {
+      "status": "allowed_with_conditions",
+      "public": true,
+      "reason": "Frostberg DoL+ 图片源仓库 LICENSE 允许非商业分享；此附件是其中 mysterious 子目录。",
+      "checked_at": "2026-11-13",
+      "evidence": [
+        {
+          "kind": "upstream",
+          "url": "https://gitgud.io/Frostberg/degrees-of-lewdity-plus/-/blob/master/LICENSE",
+          "quote": "reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only"
+        },
+        {
+          "kind": "source",
+          "url": "https://gitgud.io/Frostberg/degrees-of-lewdity-plus/-/tree/master/imagepacks/mysterious"
+        }
+      ],
+      "conditions": [
+        "保留 Vrelnir、Frostberg、UCB / mysterious 与图片贡献者署名及来源",
+        "非商业使用",
+        "改编贡献按 CC BY-NC-SA 4.0 共享并说明修改",
+        "原子目录包未带许可证，另提供完整许可及归属说明"
+      ],
+      "license": "CC-BY-NC-SA-4.0"
+    }
   },
   {
     "key": "maplebirch",
@@ -512,16 +753,22 @@
       "MaplebirchLeaf / 楓樺葉"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework",
-    "old_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework/releases/download/maplebirch-release-v5.6.2/maplebirch-0.5.12.13-v5.6.2.mod.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-release-v5.6.2/maplebirch-0.5.12.13-v5.6.2.mod.zip",
     "source_release_url": "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework/releases/tag/maplebirch-release-v5.6.2",
     "published_at": null,
     "license_members": [
       "LICENSE",
       "LICENSE-CC-BY-NC-SA-4.0"
     ],
-    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
-    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复"
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "key": "au_f",
@@ -535,13 +782,27 @@
       "AOKIUTAGE and AU image contributors"
     ],
     "source_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0",
-    "old_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/download/mod/AUfemale.model_v0.9.3.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/au-model-f-v0.9.3/AUfemale.model_v0.9.3.zip",
     "source_release_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/tag/mod",
     "published_at": null,
     "license_members": [],
-    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
-    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复"
+    "license_note": "AU 作者明确禁止二次分发，没有找到整合公开的例外。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "redistribution": {
+      "status": "prohibited",
+      "public": false,
+      "reason": "AU 作者明确禁止二次分发，没有找到整合公开的例外。",
+      "checked_at": "2026-11-13",
+      "evidence": [
+        {
+          "kind": "upstream",
+          "url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/blob/main/README.md#L3",
+          "quote": "AU美化原版部件以及其衍生二创发型，服装以及一切源部件同人部件全部！严禁二传，倒卖，拆包行为！！"
+        }
+      ],
+      "conditions": [
+        "不公开镜像，也不内置于公开整合包或 Actions 下载"
+      ]
+    }
   },
   {
     "key": "au_m",
@@ -555,13 +816,27 @@
       "AOKIUTAGE and AU image contributors"
     ],
     "source_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0",
-    "old_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/download/mod/AUmale.model_v0.4.2.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/au-model-m-v0.4.2/AUmale.model_v0.4.2.zip",
     "source_release_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/tag/mod",
     "published_at": null,
     "license_members": [],
-    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
-    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复"
+    "license_note": "AU 作者明确禁止二次分发，没有找到整合公开的例外。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "redistribution": {
+      "status": "prohibited",
+      "public": false,
+      "reason": "AU 作者明确禁止二次分发，没有找到整合公开的例外。",
+      "checked_at": "2026-11-13",
+      "evidence": [
+        {
+          "kind": "upstream",
+          "url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/blob/main/README.md#L3",
+          "quote": "AU美化原版部件以及其衍生二创发型，服装以及一切源部件同人部件全部！严禁二传，倒卖，拆包行为！！"
+        }
+      ],
+      "conditions": [
+        "不公开镜像，也不内置于公开整合包或 Actions 下载"
+      ]
+    }
   },
   {
     "key": "au_a",
@@ -575,13 +850,27 @@
       "AOKIUTAGE and AU image contributors"
     ],
     "source_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0",
-    "old_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/download/mod/AUandrogynous.model_v0.1.1.zip",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/au-model-a-v0.1.1/AUandrogynous.model_v0.1.1.zip",
     "source_release_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/tag/mod",
     "published_at": null,
     "license_members": [],
-    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
-    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复"
+    "license_note": "AU 作者明确禁止二次分发，没有找到整合公开的例外。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "redistribution": {
+      "status": "prohibited",
+      "public": false,
+      "reason": "AU 作者明确禁止二次分发，没有找到整合公开的例外。",
+      "checked_at": "2026-11-13",
+      "evidence": [
+        {
+          "kind": "upstream",
+          "url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0/blob/main/README.md#L3",
+          "quote": "AU美化原版部件以及其衍生二创发型，服装以及一切源部件同人部件全部！严禁二传，倒卖，拆包行为！！"
+        }
+      ],
+      "conditions": [
+        "不公开镜像，也不内置于公开整合包或 Actions 下载"
+      ]
+    }
   },
   {
     "key": "au_face",
@@ -596,14 +885,29 @@
       "aokiutage / AOKIUTAGE"
     ],
     "source_url": "https://github.com/AOKIUTAGE/UTAGEsDOL3.0",
-    "old_url": "https://discord.com/channels/1103864219620884560/1368992933243654164/1566065930646069270",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/au-face-v1.2.16/AUsDoL-facial-expansion-v1.2.16.zip",
-    "source_release_url": "https://discord.com/channels/1103864219620884560/1368992933243654164/1566065930646069270",
+    "source_release_url": "https://discord.com/channels/1103864219620884560/1368992933243654164/1566065993858682990",
     "published_at": null,
     "license_members": [],
-    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
+    "license_note": "snake / aokiutage 包内署名没有转载许可；Discord 说明与附件可定位，许可尚未确认。",
     "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
-    "original_archive_note": "原包保留四个损坏空目录记录和十个实际文件。仅构建副本清理空目录。README 顶部仍标 1.2.15，boot 与更新日志确认 1.2.16。"
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "snake / aokiutage 包内署名没有转载许可；Discord 说明与附件可定位，许可尚未确认。",
+      "checked_at": "2026-11-13",
+      "evidence": [
+        {
+          "kind": "archive_member",
+          "path": "README.md",
+          "quote": "原作者：snake；适配二改：aokiutage"
+        },
+        {
+          "kind": "source",
+          "url": "https://discord.com/channels/1103864219620884560/1368992933243654164/1566065993858682990"
+        }
+      ],
+      "conditions": []
+    }
   },
   {
     "key": "cheat_extended",
@@ -617,15 +921,38 @@
       "隨風飄逸 / chris81605"
     ],
     "source_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended",
-    "old_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended/releases/download/1.20.3/cheat_extended.mod.zip",
     "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/cheat-extended-v1.20.3.1/cheat_extended.mod.zip",
     "source_release_url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended/releases/tag/1.20.3",
     "published_at": null,
     "license_members": [
       "LICENSE.txt"
     ],
-    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
-    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复"
+    "license_note": "各版本原包 LICENSE.txt 明确允许非商业复制、分享和改编。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "redistribution": {
+      "status": "allowed_with_conditions",
+      "public": true,
+      "reason": "各版本原包 LICENSE.txt 明确允许非商业复制、分享和改编。",
+      "checked_at": "2026-11-13",
+      "evidence": [
+        {
+          "kind": "archive_member",
+          "path": "LICENSE.txt",
+          "quote": "reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only"
+        },
+        {
+          "kind": "upstream",
+          "url": "https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended/blob/main/LICENSE.txt"
+        }
+      ],
+      "conditions": [
+        "保留原作者、贡献者、版权、原包 README 和许可证",
+        "非商业使用",
+        "说明修改并按 CC BY-NC-SA 4.0 共享改编贡献",
+        "Spectrum 按 MIT，OpenCC 字典按 Apache-2.0，原作者与第三方许可另附"
+      ],
+      "license": "CC-BY-NC-SA-4.0"
+    }
   },
   {
     "key": "doli",
@@ -639,14 +966,37 @@
       "ArsNativa and DOLI contributors"
     ],
     "source_url": "https://github.com/ArsNativa/Degrees-of-Lewdity-Intelligence",
-    "old_url": "https://github.com/ArsNativa/Degrees-of-Lewdity-Intelligence/releases/download/v0.2.3/DOLI.mod.zip",
     "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/doli-v0.2.3/DOLI.mod.zip",
     "source_release_url": "https://github.com/ArsNativa/Degrees-of-Lewdity-Intelligence/releases/tag/v0.2.3",
     "published_at": null,
     "license_members": [],
-    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
+    "license_note": "发布原包 README 与对应 tag LICENSE 均明示 CC BY-NC-SA 4.0。",
     "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
-    "original_archive_note": "官方发布 tag 是 v0.2.3，原件 boot 标识仍为 0.2.2，未改写版本。"
+    "original_archive_note": "官方发布 tag 是 v0.2.3，原件 boot 标识仍为 0.2.2，未改写版本。",
+    "redistribution": {
+      "status": "allowed_with_conditions",
+      "public": true,
+      "reason": "发布原包 README 与对应 tag LICENSE 均明示 CC BY-NC-SA 4.0。",
+      "checked_at": "2026-11-13",
+      "evidence": [
+        {
+          "kind": "archive_member",
+          "path": "README.md:51",
+          "quote": "This work is licensed under CC BY-NC-SA 4.0."
+        },
+        {
+          "kind": "upstream",
+          "url": "https://github.com/ArsNativa/Degrees-of-Lewdity-Intelligence/blob/v0.2.3/LICENSE"
+        }
+      ],
+      "conditions": [
+        "保留 ArsNativa 和贡献者署名及原说明",
+        "非商业使用",
+        "标明修改，改编贡献按相同许可共享",
+        "包内未附完整许可，另提供随附许可文本"
+      ],
+      "license": "CC-BY-NC-SA-4.0"
+    }
   },
   {
     "key": "deadwood",
@@ -660,13 +1010,19 @@
       "MaplebirchLeaf / 楓樺葉"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/Deadwood-Reblooms",
-    "old_url": "https://github.com/MaplebirchLeaf/Deadwood-Reblooms/releases/download/v2.5.8/deadwood-reblooms-0.5.12.13-v2.5.8.modpack",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/deadwood-v2.5.8/deadwood-reblooms-0.5.12.13-v2.5.8.modpack",
     "source_release_url": "https://github.com/MaplebirchLeaf/Deadwood-Reblooms/releases/tag/v2.5.8",
     "published_at": null,
     "license_members": [],
-    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
-    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复"
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   },
   {
     "key": "revelation",
@@ -680,12 +1036,18 @@
       "MaplebirchLeaf / 楓樺葉"
     ],
     "source_url": "https://github.com/MaplebirchLeaf/Revelation-The-Book-of-Return",
-    "old_url": "https://github.com/MaplebirchLeaf/Revelation-The-Book-of-Return/releases/download/v1.4.6/revelation-the-book-of-return-v1.4.6.modpack",
-    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/revelation-v1.4.6/revelation-the-book-of-return-v1.4.6.modpack",
     "source_release_url": "https://github.com/MaplebirchLeaf/Revelation-The-Book-of-Return/releases/tag/v1.4.6",
     "published_at": null,
     "license_members": [],
-    "license_note": "保留原作者署名、版权、许可证和来源，原包不重新授权；图像按各原作者分发要求使用。",
-    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复"
+    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+    "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
+    "redistribution": {
+      "status": "unconfirmed",
+      "public": false,
+      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "checked_at": "2026-11-13",
+      "evidence": [],
+      "conditions": []
+    }
   }
 ]
