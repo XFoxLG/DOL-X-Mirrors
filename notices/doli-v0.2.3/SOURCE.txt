@@ -1,0 +1,13 @@
+原作者：ArsNativa and DOLI contributors
+原始来源：https://github.com/ArsNativa/Degrees-of-Lewdity-Intelligence
+原始发布：https://github.com/ArsNativa/Degrees-of-Lewdity-Intelligence/releases/tag/v0.2.3
+核验日期：2026-11-13
+原件SHA-256：82785c3d6d8a5f311763190e8429b77dfd1f1130c1dcfd95d2ab77187e356890
+
+分发条件：
+保留 ArsNativa 和贡献者署名及原说明
+非商业使用
+标明修改，改编贡献按相同许可共享
+包内未附完整许可，另提供随附许可文本
+
+本归档由XFoxLG独立维护，原附件保持字节不变。

@@ -1,0 +1,13 @@
+原作者：隨風飄逸 / chris81605
+原始来源：https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended
+原始发布：https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended/releases/tag/1.20.3
+核验日期：2026-11-13
+原件SHA-256：16da93387fc026ef6a5fe402e032bd4fd3794cae6487f959b9b85b701d02ac1e
+
+分发条件：
+保留原作者、贡献者、版权、原包 README 和许可证
+非商业使用
+说明修改并按 CC BY-NC-SA 4.0 共享改编贡献
+Spectrum 按 MIT，OpenCC 字典按 Apache-2.0，原作者与第三方许可另附
+
+本归档由XFoxLG独立维护，原附件保持字节不变。

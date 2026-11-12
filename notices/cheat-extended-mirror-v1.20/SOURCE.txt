@@ -1,0 +1,13 @@
+原作者：隨風飄逸 / chris81605
+原始来源：https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended
+原始发布：https://github.com/XFoxLG/DOL-X/releases/tag/cheat-extended-mirror-v1.20
+核验日期：2026-11-13
+原件SHA-256：9d318e813c24038586b9a50dd30e59f5fd608e886e93b6eceeccbb08eed2ce71
+
+分发条件：
+保留原作者、贡献者、版权、原包 README 和许可证
+非商业使用
+说明修改并按 CC BY-NC-SA 4.0 共享改编贡献
+Spectrum 按 MIT，OpenCC 字典按 Apache-2.0，原作者与第三方许可另附
+
+本归档由XFoxLG独立维护，原附件保持字节不变。

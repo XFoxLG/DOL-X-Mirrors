@@ -1,0 +1,12 @@
+原作者：鎖鏈蝴蝶 / mirrormirroronwall, 隨風飄逸 / chris81605
+原始来源：https://github.com/chris81605/Legacy-Art-Mods-Compat
+原始发布：https://github.com/XFoxLG/DOL-X/releases/tag/legacy-art-compat-plus-v1.1
+核验日期：2026-11-13
+原件SHA-256：df1debd4425467c60553a15e090a870b6924c2102614ccab4ff716776d17a727
+
+分发条件：
+保留鎖鏈蝴蝶 / mirrormirroronwall 原作者与隨風飄逸 / chris81605 Plus 维护者署名
+保留原包 readme，附对应历史作者许可
+boot.json 与 dolrename.js 和授权版本源文件完全相同
+
+本归档由XFoxLG独立维护，原附件保持字节不变。
