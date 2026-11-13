@@ -764,16 +764,27 @@
       "LICENSE",
       "LICENSE-CC-BY-NC-SA-4.0"
     ],
-    "license_note": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+    "license_note": "5.6.2 对应 package.json 明确 MIT OR CC-BY-NC-SA-4.0；本原件代码镜像使用 MIT，保留双许可证及8项第三方许可。",
     "provenance": "已归档并与本次锁文件一致的原始附件，未应用构建修复",
     "redistribution": {
-      "status": "unconfirmed",
-      "public": false,
-      "reason": "许可尚未逐项确认，暂停公开下载；保留原作者来源。",
+      "status": "allowed_with_conditions",
+      "public": true,
       "checked_at": "2026-11-13",
-      "evidence": [],
-      "conditions": []
-    }
+      "reason": "5.6.2 对应 package.json 明确 MIT OR CC-BY-NC-SA-4.0；本原件代码镜像使用 MIT，保留双许可证及8项第三方许可。",
+      "evidence": [
+        "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework/blob/d9199cd26c9884339a13a1a62281164e45e9197b/package.json",
+        "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework/blob/d9199cd26c9884339a13a1a62281164e45e9197b/LICENSE",
+        "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework/blob/d9199cd26c9884339a13a1a62281164e45e9197b/LICENSE-CC-BY-NC-SA-4.0",
+        "https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework/releases/tag/maplebirch-release-v5.6.2"
+      ],
+      "conditions": [
+        "原作者楓樺葉署名、MIT许可和免责条款保留。",
+        "原包的CC BY-NC-SA许可另保留；本代码原件依明确的双许可声明选择MIT分发。",
+        "保留THIRD_PARTY_NOTICES内8项运行依赖的许可证、版权和归属。",
+        "原件字节不改；改编件另行标明修改与适用许可。"
+      ]
+    },
+    "mirror_url": "https://github.com/XFoxLG/DOL-X-Mirrors/releases/download/maplebirch-release-v5.6.2/maplebirch-0.5.12.13-v5.6.2.mod.zip"
   },
   {
     "key": "au_f",
