@@ -15,7 +15,7 @@
 | 作弊拓展 | [1.20.3.1](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/cheat-extended-v1.20.3.1) | 隨風飄逸 / chris81605 | [来源](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended) · [CC-BY-NC-SA-4.0](notices/cheat-extended-v1.20.3.1/NOTICE.md) |
 | D.O.L.I | [v0.2.3（包内 0.2.2）](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/doli-v0.2.3) | ArsNativa and DOLI contributors | [来源](https://github.com/ArsNativa/Degrees-of-Lewdity-Intelligence) · [CC-BY-NC-SA-4.0](notices/doli-v0.2.3/NOTICE.md) |
 
-附件文件名、大小和 SHA-256 见 [sources.json](sources.json)。源码重建件会单独标明；版本适用范围以对应说明为准。
+附件文件名、大小和 SHA-256 见 [sources.json](sources.json)。版本适用范围以对应说明为准。
 
 ## 作者页面
 
