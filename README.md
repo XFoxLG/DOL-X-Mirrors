@@ -1,38 +1,28 @@
-# DOL-X 第三方附件归档
+# DOL-X 模组附件归档
 
-本仓库由 XFoxLG 独立维护，不是游戏、汉化组或模组作者的官方发行。只提供有明确分发许可且已履行条件的附件；原作者署名、版权、许可证和来源保留。
+部分模组版本的附件归档，由 XFoxLG 维护。请优先使用原作者发行；原作者署名、版权和许可证随附件保留。
 
-2026-11-13 已按作者分发要求整改：AU F/M/A 模型禁止二传，公开镜像撤下；AU 面部扩展 1.2.16 许可未确认，暂停公开。许可未确认的历史附件暂不提供下载。原作者下载页保留，禁止二传的附件不藏在其他公开仓库、旧发布或整合产物中。
+## 下载
 
-优先使用原作者官方发行。归档原件保持字节不变；源码重建件单独标明，不声称与失落官方附件相同。下载后可核对清单中的 SHA-256；校验值只用于辨认附件。
-
-## 当前可公开附件
-
-| 归档 | 附件 | 原作者 | 许可与条件 |
+| 模组 | 版本 | 原作者 | 来源与许可 |
 |---|---|---|---|
-| [cheat-extended-mirror-v1.20-dev260923](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/cheat-extended-mirror-v1.20-dev260923) | `cheat_extended.mod.zip` | 隨風飄逸 / chris81605 | [CC-BY-NC-SA-4.0](notices/cheat-extended-mirror-v1.20-dev260923/NOTICE.md) |
-| [cheat-extended-mirror-v1.20](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/cheat-extended-mirror-v1.20) | `cheat_extended.mod.zip` | 隨風飄逸 / chris81605 | [CC-BY-NC-SA-4.0](notices/cheat-extended-mirror-v1.20/NOTICE.md) |
-| [legacy-art-compat-plus-v1.1](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/legacy-art-compat-plus-v1.1) | `Legacy-Art-Mods-Compat.zip` | 鎖鏈蝴蝶 / mirrormirroronwall, 隨風飄逸 / chris81605 | [author-permission](notices/legacy-art-compat-plus-v1.1/NOTICE.md) |
-| [cheat-extended-mirror-v1.18](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/cheat-extended-mirror-v1.18) | `cheat_extended_v118.mod.zip` | 隨風飄逸 / chris81605 | [CC-BY-NC-SA-4.0](notices/cheat-extended-mirror-v1.18/NOTICE.md) |
-| [imagepack-mirror-v1](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/imagepack-mirror-v1) | `degrees-of-lewdity-plus-master-imagepacks-mysterious.tar.gz` | Frostberg and imagepack contributors | [CC-BY-NC-SA-4.0](notices/imagepack-mirror-v1/NOTICE.md) |
-| [cheat-extended-v1.20.3.1](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/cheat-extended-v1.20.3.1) | `cheat_extended.mod.zip` | 隨風飄逸 / chris81605 | [CC-BY-NC-SA-4.0](notices/cheat-extended-v1.20.3.1/NOTICE.md) |
-| [doli-v0.2.3](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/doli-v0.2.3) | `DOLI.mod.zip` | ArsNativa and DOLI contributors | [CC-BY-NC-SA-4.0](notices/doli-v0.2.3/NOTICE.md) |
+| 作弊拓展 | [1.20(dev260923)](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/cheat-extended-mirror-v1.20-dev260923) | 隨風飄逸 / chris81605 | [来源](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended) · [CC-BY-NC-SA-4.0](notices/cheat-extended-mirror-v1.20-dev260923/NOTICE.md) |
+| 作弊拓展 | [1.20](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/cheat-extended-mirror-v1.20) | 隨風飄逸 / chris81605 | [来源](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended) · [CC-BY-NC-SA-4.0](notices/cheat-extended-mirror-v1.20/NOTICE.md) |
+| 旧版图片名称适配 | [1.0.3-plusV1.1](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/legacy-art-compat-plus-v1.1) | 鎖鏈蝴蝶 / mirrormirroronwall, 隨風飄逸 / chris81605 | [来源](https://github.com/chris81605/Legacy-Art-Mods-Compat) · [作者许可](notices/legacy-art-compat-plus-v1.1/NOTICE.md) |
+| 作弊拓展 | [1.18(Dev260325)](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/cheat-extended-mirror-v1.18) | 隨風飄逸 / chris81605 | [来源](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended) · [CC-BY-NC-SA-4.0](notices/cheat-extended-mirror-v1.18/NOTICE.md) |
+| DoL+ 图片包（mysterious） | [v1](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/imagepack-mirror-v1) | Frostberg and imagepack contributors | [来源](https://gitgud.io/Frostberg/degrees-of-lewdity-plus) · [CC-BY-NC-SA-4.0](notices/imagepack-mirror-v1/NOTICE.md) |
+| 秋枫白桦框架 | [5.6.2](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/maplebirch-release-v5.6.2) | MaplebirchLeaf / 楓樺葉 | [来源](https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework) · [MIT](notices/maplebirch-release-v5.6.2/SOURCE.md) |
+| 作弊拓展 | [1.20.3.1](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/cheat-extended-v1.20.3.1) | 隨風飄逸 / chris81605 | [来源](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended) · [CC-BY-NC-SA-4.0](notices/cheat-extended-v1.20.3.1/NOTICE.md) |
+| D.O.L.I | [v0.2.3（包内 0.2.2）](https://github.com/XFoxLG/DOL-X-Mirrors/releases/tag/doli-v0.2.3) | ArsNativa and DOLI contributors | [来源](https://github.com/ArsNativa/Degrees-of-Lewdity-Intelligence) · [CC-BY-NC-SA-4.0](notices/doli-v0.2.3/NOTICE.md) |
 
-## 只保留作者来源的附件
+附件文件名、大小和 SHA-256 见 [sources.json](sources.json)。源码重建件会单独标明；版本适用范围以对应说明为准。
 
-| 项目 | 状态 | 作者入口 |
-|---|---|---|
-| AU-F 0.9.3 / AU-M 0.4.2 / AU-A 0.1.1 | 作者明确禁止二次分发 | [AOKIUTAGE 官方发布](https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/tag/mod) |
-| AU 面部扩展 1.2.16 | 许可未确认，暂停公开 | [说明](https://discord.com/channels/1103864219620884560/1368992933243654164/1566065930646069270) / [附件原帖](https://discord.com/channels/1103864219620884560/1368992933243654164/1566065993858682990) |
+## 作者页面
 
-各历史附件的审核状态、证据和条件见 [sources.json](sources.json)。许可未确认不等于作者明确禁止，审核通过并补齐条件后才恢复公开。
+- [AU 模型图片包](https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/tag/mod)
+- [AU Face 脸部扩展](https://github.com/AOKIUTAGE/UTAGEsDOL3.0/releases/tag/facemod)
+- [秋枫白桦框架](https://github.com/MaplebirchLeaf/SCML-DOL-maplebirchFramework)
 
-## 分发与免责声明
+使用资源时请遵守各自许可，详情见[资源说明](DISTRIBUTION_POLICY.md)。版本、来源与署名问题可在 [Issues](https://github.com/XFoxLG/DOL-X-Mirrors/issues) 反馈。
 
-本仓库不重新授权第三方作品。请遵守各附件实际适用的许可：CC BY-NC-SA 4.0 要求署名、非商业、修改标记与相同方式共享；MIT 等许可证的版权及许可文本也需保留。代码许可不能自动覆盖图片、模型或打包的子模组。
-
-免责声明不代替转载授权，也不免除依法应承担的责任。原许可证的免责条款保留；归档不保证旧版本在任意设备或整合组合上兼容，不表示原作者对本归档提供支持或背书。
-
-权利人可通过 [Issues](https://github.com/XFoxLG/DOL-X-Mirrors/issues)提供作品来源、相关版本及条款，申请许可核查、署名纠正或下架，不需公开私人邮箱或身份文件。维护方也主动核查，无授权不以“免费分享”“仅供学习”或“侵权联系删除”为分发理由。
-
-完整规则见 [DISTRIBUTION_POLICY.md](DISTRIBUTION_POLICY.md)。整合构建与独立自研兼容模组在 [DOL-X](https://github.com/XFoxLG/DOL-X) 维护，候选整合包公开发布仍是独立步骤。
+整合包构建与自研兼容模组见 [DOL-X](https://github.com/XFoxLG/DOL-X)。
